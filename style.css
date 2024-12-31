@@ -185,6 +185,7 @@ body {
     max-height: 2000px; /* Adjust this value based on your content */
     display: block;
     padding-left: 40px;
+    padding-right: 40px;
   }
 
   /* Collapsible section arrow icon */
