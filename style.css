@@ -182,7 +182,7 @@ body {
 
   /* Show content when active */
   .content.show {
-    max-height: 700px; /* Adjust this value based on your content */
+    max-height: 2000px; /* Adjust this value based on your content */
     display: block;
     padding-left: 40px;
   }
